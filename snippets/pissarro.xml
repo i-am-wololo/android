@@ -4,7 +4,7 @@
 		fetch="https://github.com/"
 		revision="refs/heads/thirteen" />
 	<project path="device/xiaomi/pissarro"
-		 name="pissarro-dev/device_xiaomi/pissarro"
+		 name="pissarro-dev/device_xiaomi_pissarro"
 		 remote="github_"
 		/>
 </manifest>
