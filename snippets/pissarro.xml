@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="github"
+	<remote name="github_"
 		fetch="https://github.com/"
-		sync-c="true"
-		sync-j="4"
 		revision="refs/heads/thirteen" />
 	<project path="device/xiaomi/pissarro"
 		 name="pissarro-dev/device_xiaomi/pissarro"
-		 remote="github"
+		 remote="github_"
 		/>
 </manifest>
